@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322008384901",
+    "firebase_url": "https://auto-contact.firebaseio.com",
+    "project_id": "auto-contact",
+    "storage_bucket": "auto-contact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322008384901:android:6977faef4dcfab6e4fb0ec",
+        "android_client_info": {
+          "package_name": "rajiv.ekansh.autocontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322008384901-48k4mvodrse1fnhqfko1emgnhdb54dgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rajiv.ekansh.autocontact",
+            "certificate_hash": "b7f44386dbefb41405bf88c24cac3434f961eaee"
+          }
+        },
+        {
+          "client_id": "322008384901-das19cm0tnjrb0ubbak117oqkvll88dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejexdt_UuUVE9sdpXJ0LUM_K0jWLfLoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322008384901-das19cm0tnjrb0ubbak117oqkvll88dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

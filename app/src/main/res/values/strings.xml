@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auto Contact</string>
+    <string name="register">Please Register....</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="mobileNumber">Mobile No.</string>
+</resources>
